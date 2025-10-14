@@ -21,7 +21,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Точка не находится в заштрихованной области");
+            Console.WriteLine("Точка не находится в заштрихованной области" + res);
         }
             Console.ReadKey();
     }

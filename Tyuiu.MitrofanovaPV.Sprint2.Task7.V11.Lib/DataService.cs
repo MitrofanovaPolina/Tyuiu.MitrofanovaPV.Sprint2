@@ -12,7 +12,7 @@ namespace Tyuiu.MitrofanovaPV.Sprint2.Task7.V11.Lib
             }
             else
             {
-                res = false;
+                res = true;
             }
             return res;
         }
